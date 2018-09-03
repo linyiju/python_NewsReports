@@ -1,3 +1,4 @@
+#抓取udn新聞稿後，並存取成mp3檔唸出來
 #from __future__ import print_function
 import os,requests,webbrowser,sys# Import the OS Module
 from bs4 import BeautifulSoup as bs
